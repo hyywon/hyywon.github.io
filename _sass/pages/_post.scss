@@ -177,6 +177,7 @@ header {
     }
 
     &.btn-outline-primary.disabled:focus {
+      font-weight: bold;
       box-shadow: none;
     }
 

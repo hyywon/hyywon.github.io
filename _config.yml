@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: yenny2 # the main title
+title: Yenny2 DB Log # the main title
 
 tagline: DB에 기록하기 # it will display as the subtitle
 
@@ -27,8 +27,8 @@ url: "https://hyywon.github.io"
 github:
   username: hyywon # change to your GitHub username
 
-twitter:
-  username:  # change to your Twitter username
+# twitter:
+#   username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -218,3 +218,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+google_site_verification: vC4TFg_yL5W63J6tOfhoDGBvvRKCKRFDMFgFa7dpICs
