@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Yenny2 DB Log</title>
   <subtitle></subtitle>
-  <updated>2025-06-07T23:23:06+09:00</updated>
+  <updated>2025-06-10T20:56:07+09:00</updated>
   <author>
     <name>yewon2</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] - 1장 &amp; 2장(성능 지표 기초)</title>
+    <link href="http://localhost:4000/posts/Book-Review-1/" rel="alternate" type="text/html" title="[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] - 1장 &amp;amp; 2장(성능 지표 기초)" />
+    <published>2025-06-06T23:11:00+09:00</published>
+  
+    <updated>2025-06-06T23:11:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/Book-Review-1/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Book-Review-1/" />
+    <author>
+      <name>yewon2</name>
+    </author>
+
+  
+    
+    <category term="Dev" />
+    
+    <category term="BookReview" />
+    
+  
+
+  <summary>이 책에서는 실제 주니어 개발자라면 대부분 겪어보지 못했을 다양한 실수를 오답 노트처럼 들여다볼 수 있도록 정리 되어있다. 이 책을 통해 “코딩만 할 줄 아는 주니어”에서 벗어나  “실제 운영 환경에서도 문제없이 서비스할 수 있는 개발자”가 되도록 실무에서 꼭 필요한 지식을 하나씩 쌓아가 볼 예정이다. 💪    (특히 신입 때부터터 혼자서 실무 경험을 해온 나에겐 더 중요한 책이될지지 모르겠다.)    실수하기 전에 미리 배우고, 겪고 나서 복기할 수 있는 소중한 참고서가 될 듯!    1장. 들어가며  코딩만 할 줄 아는 주니어, 이제 실무 준비 시작 🚀  “코딩은 할 줄 아는데, 왜 서비스가 점점 느려지고 문제는 계속 생길까?”  많은 주니어 백엔드 개발자가 한 번쯤 겪는 고민입니다.  코딩은 시작...</summary>
+
+  </entry>
 
 </feed>
 
