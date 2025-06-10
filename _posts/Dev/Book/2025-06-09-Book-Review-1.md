@@ -1,6 +1,6 @@
 ---
 title: "[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] - 1장 & 2장(성능 지표 기초)"
-date: 2025-06-06 23:11:00 +0900
+date: 2025-06-09 23:11:00 +0900
 categories: [Dev, BookReview]
 tags: [Dev, Backend, BookReview]
 ---

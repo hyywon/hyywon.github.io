@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Yenny2 DB Log</title>
   <subtitle></subtitle>
-  <updated>2025-06-10T20:56:07+09:00</updated>
+  <updated>2025-06-10T20:56:47+09:00</updated>
   <author>
     <name>yewon2</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] - 1장 &amp; 2장(성능 지표 기초)</title>
     <link href="http://localhost:4000/posts/Book-Review-1/" rel="alternate" type="text/html" title="[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] - 1장 &amp;amp; 2장(성능 지표 기초)" />
-    <published>2025-06-06T23:11:00+09:00</published>
+    <published>2025-06-09T23:11:00+09:00</published>
   
-    <updated>2025-06-06T23:11:00+09:00</updated>
+    <updated>2025-06-09T23:11:00+09:00</updated>
   
     <id>http://localhost:4000/posts/Book-Review-1/</id>
     <content type="text/html" src="http://localhost:4000/posts/Book-Review-1/" />
