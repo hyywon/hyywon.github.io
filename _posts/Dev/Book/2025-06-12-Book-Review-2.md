@@ -1,5 +1,5 @@
 ---
-title: "[책 요약] '주니어 백엔드 실무 지식' 2장 : 서버 성능 개선 기초(Scale-up vs Scale-out)"
+title: "[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] - 2장 : 서버 성능 개선 기초(Scale-up vs Scale-out)"
 date: 2025-06-12 21:48:00 +0900
 categories: [Dev, BookReview]
 tags: [Dev, Backend, BookReview]
